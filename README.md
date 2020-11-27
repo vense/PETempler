@@ -1,8 +1,10 @@
 # PETempler
 
 
-#### bibtex
+### citation
 Kim, Jeonghun, and Joon-Kyung, Seong. "PETempler." https://github.com/vense/PETempler. (2020).
+
+### bibtex
 ~~~
 @misc{PETempler2020,
   author = {"Kim, Jeonghun and Seong, Joon-Kyung"},
